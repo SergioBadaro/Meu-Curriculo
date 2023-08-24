@@ -1,73 +1,71 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@300;400&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@300;400&display=swap");
 
 body {
-    background-color: #dfdfdf;
-    font-family: 'Roboto', sans-serif;
-    color: #222222;
-    font-size: 1em;
-    margin: 0;
+  background-color: #dfdfdf;
+  font-family: "Roboto", sans-serif;
+  color: #222222;
+  font-size: 1em;
+  margin: 0;
 }
 
 .container {
-    width: 900px;
-    margin: 0 auto;
+  width: 900px;
+  margin: 0 auto;
 }
 
 .perfil {
-    text-align: center;
-    margin-bottom: 40px;
+  text-align: center;
+  margin-bottom: 40px;
 }
 
 .soft-skill {
-    font-weight: bold;
-    font-size: 1.2em;
-    font-family: 'Roboto', sans-serif;
-    color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: 1.2em;
+  font-family: "Roboto", sans-serif;
+  color: rgb(0, 0, 0);
 }
 
 .foto-principal {
-    width: 200px;
-    border-radius: 50%;
-    border: 2px solid #fff;
-    margin: 30px 30px 0 30px;
-    box-shadow: 0px 5px 10px #959595;
+  width: 200px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  margin: 30px 30px 0 30px;
+  box-shadow: 0px 5px 10px #959595;
 }
 
 #titulo-principal {
-    font-family: 'Roboto', sans-serif;
-    color: rgb(0, 0, 0);
+  font-family: "Roboto", sans-serif;
+  color: rgb(0, 0, 0);
 }
 
 h1 {
-    margin-top: 10px;
-    margin-bottom: 0;
+  margin-top: 10px;
+  margin-bottom: 0;
 }
 
 h2 {
-    margin-top: 0;
-    font-style: italic;
-    color: rgb(73, 73, 73);
-    font-weight: 100;
+  margin-top: 0;
+  font-style: italic;
+  color: rgb(73, 73, 73);
+  font-weight: 100;
 }
 
 .social-links {
-    text-decoration: none;
-
+  text-decoration: none;
 }
 
 .social-icons {
-    width: 30px;
+  width: 30px;
 }
 
 .github {
-    margin: 0 15px 0 15px;
+  margin: 0 15px 0 15px;
 }
 
 .footer {
-    margin-top: 40px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0 10px 0;
+  margin-top: 40px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0 10px 0;
 }
